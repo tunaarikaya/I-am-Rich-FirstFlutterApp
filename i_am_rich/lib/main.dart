@@ -9,7 +9,7 @@ void main() {
         backgroundColor:Colors.blueGrey[100] ,
       ),
       body: Center(
-//lsl
+//lslq
         child: Image(
           image: AssetImage('images/dia.png'),
         ),
